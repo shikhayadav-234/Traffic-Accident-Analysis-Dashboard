@@ -1,4 +1,4 @@
-# 🚦 PRODIGY_DS_05 – Traffic Accident Analysis Dashboard Using Power BI
+# 🚦  Traffic Accident Analysis Dashboard Using Power BI
 
 ## 🎯 Task Objective:
 Create an interactive dashboard in Power BI to analyze traffic accident data and uncover key insights using visual storytelling.
@@ -43,10 +43,4 @@ Create an interactive dashboard in Power BI to analyze traffic accident data and
 
 ---
 
-## 🙏 Thanks to:
-**Prodigy Infotech** for guiding this hands-on experience in dashboard development and data analysis using **Power BI**.
-
----
-
-**#TrafficAnalysis #PowerBI #DashboardDesign #DataVisualization #DataAnalytics #ProdigyInfotech**
-
+**#TrafficAnalysis #PowerBI #DashboardDesign #DataVisualization #DataAnalytics 
